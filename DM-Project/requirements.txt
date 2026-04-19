@@ -1,0 +1,12 @@
+roboflow
+opencv-python
+pandas
+numpy
+matplotlib
+tqdm
+scikit-learn
+seaborn
+mlxtend
+joblib
+graphviz
+streamlit

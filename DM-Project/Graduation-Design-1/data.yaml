@@ -1,0 +1,14 @@
+names:
+- Bleached Coral
+- Dead Coral
+- Healthy Coral
+nc: 3
+roboflow:
+  license: MIT
+  project: graduation-design-gjwnj
+  url: https://universe.roboflow.com/coral-pathology-detection-mk1pl/graduation-design-gjwnj/dataset/1
+  version: 1
+  workspace: coral-pathology-detection-mk1pl
+test: ../test/images
+train: ../train/images
+val: ../valid/images
